@@ -9,7 +9,6 @@ public class AbsoluteValue {
             int I = sc.nextInt();
             Solution obj = new Solution();
             System.out.println(obj.absolute(I));
-
             T--;
         }
     }
