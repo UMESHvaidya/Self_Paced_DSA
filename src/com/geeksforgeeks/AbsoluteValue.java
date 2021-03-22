@@ -4,7 +4,7 @@ public class AbsoluteValue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int T = sc.nextInt(); // number of testcases
+        int T = sc.nextInt();
         while (T > 0) {
             int I = sc.nextInt();
             Solution obj = new Solution();
